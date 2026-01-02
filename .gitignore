@@ -1,0 +1,20 @@
+# KiCad temporary and backup files
+*-backups/
+*.bak
+*.tmp
+*.net
+*.dcm
+*.sym-cache
+.fp-info-cache
+
+# Generated outputs
+*.gbr
+*.drl
+*.pos
+*.rpt
+*.step
+*.pdf
+
+# OS junk
+.DS_Store
+Thumbs.db
